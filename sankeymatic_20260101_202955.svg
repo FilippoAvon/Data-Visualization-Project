@@ -1,0 +1,96 @@
+<svg height="800" width="1200" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 01/01/2026, 20:29:55 -->
+<rect height="800" width="1200" fill="#ffffff"></rect>
+<g transform="translate(166.44348,18)">
+<g id="sankey_flows">
+<path id="flow6" d="M448.54871 311.82354C652.82307 311.82354 652.82307 324.39624 857.09742 324.39624" fill="none" stroke-width="478.47058" stroke="#d62728" opacity="0.5"><title>EU → EUROPE: 436,587</title></path>
+<path id="flow5" d="M20 511.66045C224.27436 511.66045 224.27436 466.59245 428.54871 466.59245" fill="none" stroke-width="168.93276" stroke="#bcbd22" opacity="0.5"><title>Other EU → EU: 154,145</title></path>
+<path id="flow0" d="M20 48.18877C224.27436 48.18877 224.27436 120.77702 428.54871 120.77702" fill="none" stroke-width="96.37754" stroke="#2ca02c" opacity="0.5"><title>Germany → EU: 87,941</title></path>
+<path id="flow10" d="M448.54871 645.85122C652.82307 645.85122 652.82307 611.27124 857.09742 611.27124" fill="none" stroke-width="95.27942" stroke="#ff7f0e" opacity="0.5"><title>NON-EU → EUROPE: 86,939</title></path>
+<path id="flow1" d="M20 153.92186C224.27436 153.92186 224.27436 205.99247 428.54871 205.99247" fill="none" stroke-width="74.05336" stroke="#9467bd" opacity="0.5"><title>France → EU: 67,571</title></path>
+<path id="flow2" d="M20 244.29338C224.27436 244.29338 224.27436 269.81913 428.54871 269.81913" fill="none" stroke-width="53.59995" stroke="#8c564b" opacity="0.5"><title>Italy → EU: 48,908</title></path>
+<path id="flow7" d="M20 646.31065C224.27436 646.31065 224.27436 624.86408 428.54871 624.86408" fill="none" stroke-width="53.30514" stroke="#1f77b4" opacity="0.5"><title>Türkiye → NON-EU: 48,639</title></path>
+<path id="flow3" d="M20 294.6246v51.19656L428.54871 347.81566v-51.19656z" fill="#e377c2" stroke-width="0.5" stroke="#e377c2" opacity="0.5"><title>Spain → EU: 46,715</title></path>
+<path id="flow4" d="M20 386.50762C224.27436 386.50762 224.27436 364.97086 428.54871 364.97086" fill="none" stroke-width="34.31041" stroke="#7f7f7f" opacity="0.5"><title>Poland → EU: 31,307</title></path>
+<path id="flow9" d="M20 746.7972C224.27436 746.7972 224.27436 678.28813 428.54871 678.28813" fill="none" stroke-width="30.4056" stroke="#bcbd22" opacity="0.5"><title>Other NON-EU → NON-EU: 27,744</title></path>
+<path id="flow8" d="M20 702.27881C224.27436 702.27881 224.27436 657.30099 428.54871 657.30099" fill="none" stroke-width="11.56868" stroke="#2ca02c" opacity="0.5"><title>Romania → NON-EU: 10,556</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="0" height="96.37754" width="20" fill="#2ca02c" fill-opacity="1"><title>Germany:
+87,941</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="428.54871" y="72.58825" height="478.47058" width="20" fill="#d62728" fill-opacity="1"><title>EU:
+436,587</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="119.90879" height="74.05336" width="20" fill="#9467bd" fill-opacity="1" transform="translate(0,-3.01361)"><title>France:
+67,571</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="0" y="217.49341" height="53.59995" width="20" fill="#8c564b" fill-opacity="1"><title>Italy:
+48,908</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="0" y="294.6246" height="51.19656" width="20" fill="#e377c2" fill-opacity="1"><title>Spain:
+46,715</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="0" y="369.35241" height="34.31041" width="20" fill="#7f7f7f" fill-opacity="1"><title>Poland:
+31,307</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="0" y="427.19407" height="168.93276" width="20" fill="#bcbd22" fill-opacity="1"><title>Other EU:
+154,145</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="857.09742" y="80.41863" height="573.75" width="20" fill="#17becf" fill-opacity="1" transform="translate(0,4.74233)"><title>EUROPE:
+523,526</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="0" y="619.65808" height="53.30514" width="20" fill="#1f77b4" fill-opacity="1"><title>Türkiye:
+48,639</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="428.54871" y="598.21151" height="95.27942" width="20" fill="#ff7f0e" fill-opacity="1"><title>NON-EU:
+86,939</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="0" y="696.49447" height="11.56868" width="20" fill="#2ca02c" fill-opacity="1"><title>Romania:
+10,556</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="0" y="731.5944" height="30.4056" width="20" fill="#bcbd22" fill-opacity="1"><title>Other NON-EU:
+27,744</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="25px" fill="#000000">
+<text text-anchor="middle" x="433.55652" y="777" font-size="12.5px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-106.17786" y="19.58134" width="104.86908" height="57.13485" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-9.84129" y="48.18877" font-weight="400" font-size="21.50857px" dy="-5.40743">Germany<tspan x="-9.84129" dy="24.73485" font-weight="400" font-size="21.50857px">87,941</tspan></text>
+<rect id="label1_bg" class="for_r1" x="380.10261" y="274.62806" width="117.51703" height="72.95096" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="438.54871" y="311.82354" font-weight="400" font-size="28.30518px" dy="-6.99548">EU<tspan x="438.54871" dy="32.55096" font-weight="400" font-size="28.30518px">436,587</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-83.45911" y="128.26637" width="81.16487" height="55.6782" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-3.01361)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-9.84129" y="156.93547" font-weight="400" font-size="21.11147px" dy="-5.4691" transform="translate(0,-3.01361)">France<tspan x="-9.84129" dy="24.27819" font-weight="400" font-size="21.11147px">67,571</tspan></text>
+<rect id="label3_bg" class="for_r3" x="-81.19348" y="215.83348" width="79.26196" height="55.2598" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-9.84129" y="244.29338" font-weight="400" font-size="20.74765px" dy="-5.2599">Italy<tspan x="-9.84129" dy="23.85979" font-weight="400" font-size="20.74765px">48,908</tspan></text>
+<rect id="label4_bg" class="for_r4" x="-81.08411" y="291.78755" width="79.00502" height="55.21064" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="-9.84129" y="320.22288" font-weight="400" font-size="20.7049px" dy="-5.23532">Spain<tspan x="-9.84129" dy="23.81063" font-weight="400" font-size="20.7049px">46,715</tspan></text>
+<rect id="label5_bg" class="for_r5" x="-81.28723" y="358.95503" width="78.73578" height="53.86521" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="-9.84129" y="386.50762" font-weight="400" font-size="20.40453px" dy="-5.3526">Poland<tspan x="-9.84129" dy="23.46521" font-weight="400" font-size="20.40453px">31,307</tspan></text>
+<rect id="label6_bg" class="for_r6" x="-112.75598" y="480.89094" width="110.51918" height="60.61906" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="-9.84129" y="511.66045" font-weight="400" font-size="22.79917px" dy="-5.56953">Other EU<tspan x="-9.84129" dy="26.21904" font-weight="400" font-size="22.79917px">154,145</tspan></text>
+<rect id="label7_bg" class="for_r7" x="879.64888" y="328.41365" width="141.90766" height="75.9" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,4.74233)"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="886.93871" y="367.29363" font-weight="400" font-size="30px" dy="-7.68" transform="translate(0,4.74233)">EUROPE<tspan x="886.93871" dy="34.5" font-weight="400" font-size="30px">523,526</tspan></text>
+<rect id="label8_bg" class="for_r8" x="-85.75598" y="617.85377" width="83.66762" height="55.25376" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="-9.84129" y="646.31065" font-weight="400" font-size="20.7424px" dy="-5.25688">Türkiye<tspan x="-9.84129" dy="23.85376" font-weight="400" font-size="20.7424px">48,639</tspan></text>
+<rect id="label9_bg" class="for_r9" x="388.89167" y="617.25502" width="99.93891" height="57.11234" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="middle" x="438.54871" y="645.85122" font-weight="400" font-size="21.48903px" dy="-5.3962">NON-EU<tspan x="438.54871" dy="24.71239" font-weight="400" font-size="21.48903px">86,939</tspan></text>
+<rect id="label10_bg" class="for_r10" x="-97.80286" y="674.95881" width="95.25141" height="53.4" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="end" x="-9.84129" y="702.27881" font-weight="400" font-size="20px" dy="-5.12">Romania<tspan x="-9.84129" dy="23" font-weight="400" font-size="20px">10,556</tspan></text>
+<rect id="label11_bg" class="for_r11" x="-154.44348" y="719.2845" width="151.89203" height="53.78538" rx="6.25" fill="#fff" fill-opacity="0.8" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="end" x="-9.84129" y="746.7972" font-weight="400" font-size="20.33507px" dy="-5.31266">Other NON-EU<tspan x="-9.84129" dy="23.38533" font-weight="400" font-size="20.33507px">27,744</tspan></text>
+</g>
+</g></svg>
